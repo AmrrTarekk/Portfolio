@@ -1,0 +1,9 @@
+Hello I'am
+Amr Tarek
+Frontend Software Engineer
+
+## colors
+blue : #00B4FF
+
+name font family 
+font-family: 'Secular One', sans-serif;
