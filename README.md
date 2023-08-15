@@ -1,4 +1,4 @@
-## Portfolio using React js and styled-components
+## My Personal Portfolio
 
 ### [Live Site](https://amrtarek-portfolio.vercel.app/)
 
