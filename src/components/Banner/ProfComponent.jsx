@@ -7,7 +7,7 @@ import { HiOutlineDownload } from "react-icons/hi";
 import { Slide } from "react-awesome-reveal";
 import imgd from "../../imgs/1.png";
 import { SocialIcon } from "react-social-icons";
-import myCV from "../../CV/AmrTarek.pdf";
+import myCV from "../../CV/Amr_Tarek.pdf";
 
 const ProfComponent = () => {
   return (
@@ -38,7 +38,7 @@ const ProfComponent = () => {
           <p className="skills">
             <b>My Skills:</b>
             <img
-              src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,git"
+              src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,redux,git"
               alt="skills images"
             />
           </p>
