@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 
 const Project = (props) => {
-  const { img, disc, link, name } = props.item;
+  const { img, disc, link, name, github, live } = props.item;
   return (
     <Container className="project">
       <img src={img} alt="project" />
@@ -12,9 +12,16 @@ const Project = (props) => {
         </h1>
         <p>
           {disc}
-          <a href={link} target="_blank" rel="noreferrer">
-            Github
-          </a>
+          {github && (
+            <a href={link} target="_blank" rel="noreferrer">
+              {github}
+            </a>
+          )}{" "}
+          {live && (
+            <a href={link} target="_blank" rel="noreferrer">
+              {live}
+            </a>
+          )}
         </p>
       </div>
     </Container>

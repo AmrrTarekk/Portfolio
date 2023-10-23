@@ -8,37 +8,53 @@ import imgp2 from "../../imgs/woudyou.jpg";
 import imgp3 from "../../imgs/cargame.png";
 import imgp4 from "../../imgs/gawad.png";
 import imgp5 from "../../imgs/form.png";
+import imgp6 from "../../imgs/bosta.PNG";
 
 let data = [
+  {
+    name: "Bosta Order Tracking App",
+    img: imgp6,
+    disc: "Login and Registration Form with Validation, Authentication and Authorization made with Axios and Route API.",
+    link: "https://github.com/AmrrTarekk/React-Form",
+    link2: "https://bosta-ordertracking.vercel.app/",
+    github: "Github",
+    live: "Live Demo",
+  },
+  {
+    name: "Freelancing-Project",
+    img: imgp4,
+    disc: "E-Commerce App for Gawad Honey Company.",
+    link2: "https://testgawadhoney.netlify.app",
+    live: "Live Demo",
+  },
   {
     name: "MyReads",
     img: imgp1,
     disc: "A Book Tracking App which tracks your books and places them on one of three shelves.",
     link: "https://github.com/AmrrTarekk/MyReads-track-app",
+    github: "Github",
   },
   {
     name: "WouldYouRather-Game",
     img: imgp2,
     disc: "This game is about that a user is asked a question and he/she has two options to choose from. It also allows the user to create his own NEW QUESTION",
     link: "https://github.com/AmrrTarekk/WouldYouRather",
+    github: "Github",
   },
   {
     name: "CrossTheRoad-Game",
     img: imgp3,
     disc: "A game for eductional purpose.",
     link: "https://github.com/AmrrTarekk/CrossRoad",
+    github: "Github",
   },
-  {
-    name: "Freelancing-Project",
-    img: imgp4,
-    disc: "E-Commerce App for Gawad Honey Company.",
-    link: "https://testgawadhoney.netlify.app",
-  },
+
   {
     name: "ReactForm",
     img: imgp5,
     disc: "Login and Registration Form with Validation, Authentication and Authorization made with Axios and Route API.",
     link: "https://github.com/AmrrTarekk/React-Form",
+    github: "Github",
   },
 ];
 

@@ -27,9 +27,9 @@ const ProfComponent = () => {
             successful career in this industry.
           </p>
           <p>
-            I'm currently working at <b>Sphinx Publishing Company (Sayegh)</b>{" "}
-            as a Front-end web developer. I've worked in large development teams
-            that have enhanced my expertise.
+            I'm currently working at <b className="blue">FLOWTECHTICS</b> as a
+            Front-end web developer. I've worked in large development teams that
+            have enhanced my expertise.
           </p>
           <p>
             I'm naturally persevered, self-confident, quietly curios, innovative
@@ -38,7 +38,7 @@ const ProfComponent = () => {
           <p className="skills">
             <b>My Skills:</b>
             <img
-              src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,redux,git"
+              src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,redux,git,mui"
               alt="skills images"
             />
           </p>
