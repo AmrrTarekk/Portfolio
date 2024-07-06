@@ -19,7 +19,7 @@ const ProfComponent = () => {
           </h4>
           <h1 className="blue">Amr Tarek</h1>
           <h3>
-            <b>Frontend Software Engineer</b>
+            <b>Mid Senior Frontend Software Engineer</b>
           </h3>
           <p>
             I'd describe myself as an industrious, competent, and positive
