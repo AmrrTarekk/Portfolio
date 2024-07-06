@@ -13,7 +13,9 @@
   --lighter: linear-gradient(159deg, rgb(45, 45, 58) 0%, rgb(43, 43, 53) 100%);
   ---background: #191923;
 }
-
+html{
+overflow-x: hidden;
+}
 body{
   width: 100%;
   background-color: var(---background);
